@@ -13,7 +13,7 @@ git-task
 —сылки на ваши файлы
 ---
 
-* [ѕавел ≈горов](names/yury_pliner.md)
+* [ѕлинер ёрий](names/yury_pliner.md)
 
 
 —казка
