@@ -50,3 +50,4 @@ e49932aa2e7ec512cdab42e26556bc817629eeba
 * Базовый интерактивный курс по git https://www.codeschool.com/courses/try-git
 * Интерактивный курс по веткам в git http://pcottle.github.io/learnGitBranching
 * Разметка *.md файлов https://help.github.com/articles/markdown-basics/
+* Адъ про Immutable Avl https://gist.github.com/Pliner/466076be1f9daaf85c18
