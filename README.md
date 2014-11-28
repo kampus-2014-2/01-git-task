@@ -26,6 +26,7 @@ git-task
 * [Михаил Ивченко](names/MikhailIvchenko.md)
 * [Колобов Илья](names/KolobovIlya.md)
 * [Татаринов Денис](names/denis_tatarinov.md)
+* [Костарев Дмитрий](names/kostarev_dmitry.md)
 
 Сказка
 ---
