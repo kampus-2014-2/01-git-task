@@ -14,7 +14,7 @@ git-task
 ---
 
 * [Плинер Юрий](names/yury_pliner.md)
-
+* [Сидоров Сергей](names/sidorov_sergey.md)
 
 Сказка
 ---
