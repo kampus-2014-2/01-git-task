@@ -18,12 +18,14 @@ git-task
 * [Алексей Девятов](names/AlexDevyatov.txt)
 * [Евгений Останин](names/EugeneOstanin.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
+* [Цыганков Алексей](names/tsygankov_aleksey.md)
 
 
 Сказка
 ---
 Жил да был программист-бездельник Вася.
 И не знал этот программист о существовании Git.
+To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
 
 
 Полезные ссылки
