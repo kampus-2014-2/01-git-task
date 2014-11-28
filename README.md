@@ -23,6 +23,7 @@ git-task
 ---
 Жил да был программист-бездельник Вася.
 И не знал этот программист о существовании Git.
+To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
 
 
 Полезные ссылки
