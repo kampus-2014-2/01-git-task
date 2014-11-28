@@ -16,7 +16,7 @@ git-task
 * [Плинер Юрий](names/yury_pliner.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
-
+* [Евгений Останин](names/EugeneOstanin.md)
 
 Сказка
 ---
