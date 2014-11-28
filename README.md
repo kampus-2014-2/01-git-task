@@ -27,6 +27,7 @@ git-task
 
 И да был Али-Баба
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
+Али-Баба вознес меч на octocat.
 
 
 Полезные ссылки
