@@ -18,6 +18,8 @@ git-task
 * [Шарапов Константин](names/konstantin_sharapov.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
+* [Евгений Останин](names/EugeneOstanin.md)
+* [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Цыганков Алексей](names/tsygankov_aleksey.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Михаил Ивченко](names/MikhailIvchenko.md)
@@ -29,15 +31,19 @@ git-task
 ---
 Жил да был программист-бездельник Вася.
 И не знал этот программист о существовании Git.
+Но когда познакомился начал много кода писать
 
 И да был Али-Баба
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
+Здесь могла быть ваша реклама.
+
 Пыщ-пыщ ололо
 Я - водитель НЛО
 А я зенитчик ПВО
 И я собью твой НЛО
+188fcc2307b6030e77471acc6a7e663f308379de
+4bcc8d2ec4f4ec247d9a2f7da82fafaa6b5ca6c2
 Полезные ссылки
-===
 
 * Базовый интерактивный курс по git https://www.codeschool.com/courses/try-git
 * Интерактивный курс по веткам в git http://pcottle.github.io/learnGitBranching
