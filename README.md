@@ -17,13 +17,14 @@ git-task
 * [Сидоров Сергей](names/sidorov_sergey.md)
 * [Шарапов Константин](names/konstantin_sharapov.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
+* [Андрей Милованов](names/Andrey_Milovanov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
 * [Евгений Останин](names/EugeneOstanin.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Цыганков Алексей](names/tsygankov_aleksey.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Михаил Ивченко](names/MikhailIvchenko.md)
-* [Колобов Илья](KolobovIlya.md)
+* [Колобов Илья](names/KolobovIlya.md)
 * [Татаринов Денис](names/denis_tatarinov.md)
 * [Жмудь Дмитрий](names/DmitryZhmud.md)
 
@@ -32,7 +33,6 @@ git-task
 Жил да был программист-бездельник Вася.
 И не знал этот программист о существовании Git.
 Но когда познакомился начал много кода писать
-
 И да был Али-Баба
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
 Здесь могла быть ваша реклама.
@@ -44,6 +44,7 @@ To be completely honest - i really do hate a lot of useless actions, but learnin
 188fcc2307b6030e77471acc6a7e663f308379de
 4bcc8d2ec4f4ec247d9a2f7da82fafaa6b5ca6c2
 Полезные ссылки
+e49932aa2e7ec512cdab42e26556bc817629eeba
 
 * Базовый интерактивный курс по git https://www.codeschool.com/courses/try-git
 * Интерактивный курс по веткам в git http://pcottle.github.io/learnGitBranching
