@@ -22,6 +22,7 @@ git-task
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Михаил Ивченко](names/MikhailIvchenko.md)
 * [Колобов Илья](KolobovIlya.md)
+* [Татаринов Денис](names/denis_tatarinov.md)
 
 Сказка
 ---
