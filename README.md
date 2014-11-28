@@ -14,11 +14,20 @@ git-task
 ---
 
 * [Плинер Юрий](names/yury_pliner.md)
+<<<<<<< HEAD
 * [Сидоров Сергей](names/sidorov_sergey.md)
+=======
+* [Евгений Комиссаров](names/evgeniy_komissarov.md)
+* [Алексей Девятов](names/AlexDevyatov.txt)
+* [Цыганков Алексей](names/tsygankov_aleksey.md)
+
+>>>>>>> fb9fd73c9cb12386b10607b720638ba6db0e7039
 
 Сказка
 ---
 Жил да был программист-бездельник Вася.
+И не знал этот программист о существовании Git.
+To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
 
 
 Полезные ссылки
