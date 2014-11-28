@@ -23,6 +23,7 @@ git-task
 * [Михаил Ивченко](names/MikhailIvchenko.md)
 * [Колобов Илья](KolobovIlya.md)
 * [Татаринов Денис](names/denis_tatarinov.md)
+* [Жмудь Дмитрий](names/DmitryZhmud.md)
 
 Сказка
 ---
@@ -33,6 +34,8 @@ git-task
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
 Пыщ-пыщ ололо
 Я - водитель НЛО
+А я зенитчик ПВО
+И я собью твой НЛО
 Полезные ссылки
 ===
 
