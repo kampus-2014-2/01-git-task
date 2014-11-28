@@ -24,7 +24,7 @@ git-task
 * [Цыганков Алексей](names/tsygankov_aleksey.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Михаил Ивченко](names/MikhailIvchenko.md)
-* [Колобов Илья](KolobovIlya.md)
+* [Колобов Илья](names/KolobovIlya.md)
 * [Татаринов Денис](names/denis_tatarinov.md)
 
 Сказка
