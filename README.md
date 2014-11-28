@@ -14,11 +14,13 @@ git-task
 ---
 
 * [Плинер Юрий](names/yury_pliner.md)
+* [Шарапов Константин](names/konstantin_sharapov.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
 * [Цыганков Алексей](names/tsygankov_aleksey.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Михаил Ивченко](names/MikhailIvchenko.md)
+* [Колобов Илья](KolobovIlya.md)
 
 
 Сказка
@@ -28,8 +30,12 @@ git-task
 
 И да был Али-Баба
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
+<<<<<<< HEAD
 Здесь могла быть ваша реклама.
 
+=======
+Пыщ-пыщ ололо
+>>>>>>> origin/master
 
 Полезные ссылки
 ===
