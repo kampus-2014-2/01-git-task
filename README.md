@@ -14,6 +14,7 @@ git-task
 ---
 
 * [Плинер Юрий](names/yury_pliner.md)
+* [Сидоров Сергей](names/sidorov_sergey.md)
 * [Шарапов Константин](names/konstantin_sharapov.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
@@ -23,7 +24,6 @@ git-task
 * [Колобов Илья](KolobovIlya.md)
 * [Татаринов Денис](names/denis_tatarinov.md)
 
-
 Сказка
 ---
 Жил да был программист-бездельник Вася.
@@ -32,7 +32,7 @@ git-task
 И да был Али-Баба
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
 Пыщ-пыщ ололо
-
+Я - водитель НЛО
 Полезные ссылки
 ===
 
