@@ -27,6 +27,7 @@ git-task
 * [Колобов Илья](names/KolobovIlya.md)
 * [Татаринов Денис](names/denis_tatarinov.md)
 * [Костарев Дмитрий](names/kostarev_dmitry.md)
+* [Жмудь Дмитрий](names/DmitryZhmud.md)
 
 Сказка
 ---
@@ -35,19 +36,16 @@ git-task
 Но когда познакомился начал много кода писать
 И да был Али-Баба
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
-<<<<<<< HEAD
 Здесь могла быть ваша реклама.
 
-=======
 Пыщ-пыщ ололо
-<<<<<<< HEAD
->>>>>>> origin/master
-
-=======
 Я - водитель НЛО
->>>>>>> 188fcc2307b6030e77471acc6a7e663f308379de
+А я зенитчик ПВО
+И я собью твой НЛО
+188fcc2307b6030e77471acc6a7e663f308379de
+4bcc8d2ec4f4ec247d9a2f7da82fafaa6b5ca6c2
 Полезные ссылки
-
+e49932aa2e7ec512cdab42e26556bc817629eeba
 
 * Базовый интерактивный курс по git https://www.codeschool.com/courses/try-git
 * Интерактивный курс по веткам в git http://pcottle.github.io/learnGitBranching
