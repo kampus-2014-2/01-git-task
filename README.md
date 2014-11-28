@@ -18,6 +18,7 @@ git-task
 * [Алексей Девятов](names/AlexDevyatov.txt)
 * [Цыганков Алексей](names/tsygankov_aleksey.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
+* [Михаил Ивченко](names/MikhailIvchenko.md)
 
 
 Сказка
