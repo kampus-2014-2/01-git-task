@@ -14,6 +14,7 @@ git-task
 ---
 
 * [Плинер Юрий](names/yury_pliner.md)
+* [Шарапов Константин](names/konstantin_sharapov.md)
 
 
 Сказка
