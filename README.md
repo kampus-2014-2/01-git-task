@@ -14,6 +14,7 @@ git-task
 ---
 
 * [Плинер Юрий](names/yury_pliner.md)
+* [Сидоров Сергей](names/sidorov_sergey.md)
 * [Шарапов Константин](names/konstantin_sharapov.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
@@ -21,7 +22,7 @@ git-task
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Михаил Ивченко](names/MikhailIvchenko.md)
 * [Колобов Илья](KolobovIlya.md)
-
+* [Татаринов Денис](names/denis_tatarinov.md)
 
 Сказка
 ---
@@ -35,8 +36,12 @@ To be completely honest - i really do hate a lot of useless actions, but learnin
 
 =======
 Пыщ-пыщ ололо
+<<<<<<< HEAD
 >>>>>>> origin/master
 
+=======
+Я - водитель НЛО
+>>>>>>> 188fcc2307b6030e77471acc6a7e663f308379de
 Полезные ссылки
 ===
 
