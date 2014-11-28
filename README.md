@@ -19,6 +19,8 @@ git-task
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Андрей Милованов](names/Andrey_Milovanov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
+* [Евгений Останин](names/EugeneOstanin.md)
+* [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Цыганков Алексей](names/tsygankov_aleksey.md)
 * [Mikhail Neverov](names/Mikhail_Neverov.md)
 * [Михаил Ивченко](names/MikhailIvchenko.md)
