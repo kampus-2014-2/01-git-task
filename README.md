@@ -15,11 +15,15 @@ git-task
 
 * [Плинер Юрий](names/yury_pliner.md)
 * [Шарапов Константин](names/konstantin_sharapov.md)
+* [Евгений Комиссаров](names/evgeniy_komissarov.md)
+* [Алексей Девятов](names/AlexDevyatov.txt)
+* [Цыганков Алексей](names/tsygankov_aleksey.md)
 
 
 Сказка
 ---
 Жил да был программист-бездельник Вася.
+И не знал этот программист о существовании Git.
 
 
 Полезные ссылки
