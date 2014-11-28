@@ -30,20 +30,11 @@ git-task
 Жил да был программист-бездельник Вася.
 И не знал этот программист о существовании Git.
 Но когда познакомился начал много кода писать
-
 И да был Али-Баба
 To be completely honest - i really do hate a lot of useless actions, but learning bash git is kinda usefull. Kinda.
-<<<<<<< HEAD
 Здесь могла быть ваша реклама.
-
-=======
 Пыщ-пыщ ололо
-<<<<<<< HEAD
->>>>>>> origin/master
-
-=======
 Я - водитель НЛО
->>>>>>> 188fcc2307b6030e77471acc6a7e663f308379de
 Полезные ссылки
 ===
 
