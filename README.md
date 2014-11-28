@@ -14,6 +14,7 @@ git-task
 ---
 
 * [Плинер Юрий](names/yury_pliner.md)
+* [Сидоров Сергей](names/sidorov_sergey.md)
 * [Шарапов Константин](names/konstantin_sharapov.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
@@ -22,7 +23,6 @@ git-task
 * [Михаил Ивченко](names/MikhailIvchenko.md)
 * [Колобов Илья](KolobovIlya.md)
 * [Татаринов Денис](names/denis_tatarinov.md)
-
 
 Сказка
 ---
