@@ -15,6 +15,7 @@ git-task
 
 * [Плинер Юрий](names/yury_pliner.md)
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
+* [Андрей Милованов](names/Andrey_Milovanov.md)
 
 
 Сказка
