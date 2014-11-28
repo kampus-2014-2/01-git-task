@@ -17,12 +17,15 @@ git-task
 * [Евгений Комиссаров](names/evgeniy_komissarov.md)
 * [Алексей Девятов](names/AlexDevyatov.txt)
 * [Цыганков Алексей](names/tsygankov_aleksey.md)
+* [Mikhail Neverov](names/Mikhail_Neverov.md)
 
 
 Сказка
 ---
 Жил да был программист-бездельник Вася.
 И не знал этот программист о существовании Git.
+И да был Али-Баба
+
 
 
 Полезные ссылки
