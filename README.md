@@ -1,4 +1,8 @@
-git-task
+﻿git-task
+========
+Контакты закончивших курс:
+[Mikhail Neverov](http://vk.com/mneveroff)
+
 ========
 
 1. Склонируйте этот проект
