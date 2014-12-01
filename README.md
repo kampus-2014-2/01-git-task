@@ -2,6 +2,7 @@
 ========
 Контакты закончивших курс:
 [Mikhail Neverov](http://vk.com/mneveroff)
+[Mikhail Ivchenko](https://vk.com/egormatirov)
 
 ========
 
