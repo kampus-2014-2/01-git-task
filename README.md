@@ -5,6 +5,7 @@
 [Mikhail Ivchenko](https://vk.com/egormatirov)
 [Konstantin Sharapov] (http://vk.com/id12614309)
 [Ilya Kolobov] (http://vk.com/kolobovilya)
+[Evgeniy Komissarov](https://vk.com/jk_jk)
 
 ========
 
